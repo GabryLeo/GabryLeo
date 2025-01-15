@@ -1,4 +1,8 @@
-<h2 align="left">Meu nome é Gabryel Leonardo e estou Iniciando no mundo da programaçao</h2>
+<h1 align="center">Olá, meu nome é Gabryel Leonardo</h1>
+
+###
+
+<h3 align="left">Estou começando no mundo da programaçao</h3>
 
 ###
 
@@ -31,6 +35,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabryleo/Gabryleo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Gabryleo/count.svg?"  />
+</div>
 
 ###
