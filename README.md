@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabryLeo&show_icons=true&theme=default&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=GabryLeo&locale=pt_BR&mode=daily&theme=default&hide_border=false&border_radius=5&card_width=467" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryLeo&theme=default" height="150" alt="languages graph" />
 </div>
 
