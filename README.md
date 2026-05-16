@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabryLeo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabryLeo&layout=compact&card_width=320&langs_count=8&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabryLeo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabryLeo&layout=compact&langs_count=8&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
